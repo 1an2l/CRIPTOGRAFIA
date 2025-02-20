@@ -86,7 +86,7 @@ Al ejecutar el programa, se presentará un menú donde puedes elegir entre **cif
 
 4. Ingresar la clave: `SOL`
 
-5. Se mostrará el texto cifrado, por ejemplo: `ZWCW SÍNLD`
+5. Se mostrará el texto cifrado, por ejemplo: `ZÓVS ÁAARZ`
 
 
 
@@ -98,7 +98,7 @@ Al ejecutar el programa, se presentará un menú donde puedes elegir entre **cif
 
 2. Seleccionar la opción `2` (**Descifrar**)
 
-3. Ingresar el texto cifrado: `ZWCW SÍNLD`
+3. Ingresar el texto cifrado: `ZÓVS ÁAARZ`
 
 4. Ingresar la misma clave usada en el cifrado: `SOL`
 
