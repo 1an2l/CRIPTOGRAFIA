@@ -1,6 +1,6 @@
 /*
  * DES Implementation in C - FIPS PUB 46 compliant
- * Author: Luis Eduardo Ríos Nava
+ * 
  * Description:
  *   - Cifra y decifra datos binarios con DES
  *   - Visualiza todas las 16 rondas con Ln, Rn y Kn
